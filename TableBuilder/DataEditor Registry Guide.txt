@@ -1,0 +1,8 @@
+This the guide for editing DataEditor.reg file.
+
+IMPORTANT FOR x64 SYSTEMS
+=========================
+Change
+	HKEY_LOCAL_MACHINE\SOFTWARE\MAP 80\
+to
+	HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\MAP 80\

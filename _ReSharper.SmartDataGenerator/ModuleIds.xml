@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="F8F788A1-5120-4858-8C9B-B6339A1D8F8C" ModuleId="SmartDataGenerator" />
+  <Module PersistentId="9CBAD968-90BE-45A6-87C1-1B9C279B8A8C" ModuleId="SmartDataGeneratorLogic" />
+</Modules>

@@ -1,0 +1,5 @@
+D:\Projects\SmartDataGenerator\SmartDataGeneratorLogic\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\SmartDataGenerator\SmartDataGeneratorLogic\bin\Debug\SmartDataGeneratorLogic.dll
+D:\Projects\SmartDataGenerator\SmartDataGeneratorLogic\bin\Debug\SmartDataGeneratorLogic.pdb
+D:\Projects\SmartDataGenerator\SmartDataGeneratorLogic\obj\Debug\SmartDataGeneratorLogic.dll
+D:\Projects\SmartDataGenerator\SmartDataGeneratorLogic\obj\Debug\SmartDataGeneratorLogic.pdb
